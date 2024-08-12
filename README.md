@@ -101,9 +101,9 @@ The project is organized into the following folders:
 
 <p>Below are some screenshots of the app:</p>
 
-<img src="assets/images/screensimg/screen1.png" alt="Screen 1" width="300">
-<img src="assets/images/screensimg/screen2.png" alt="Screen 2" width="300">
-<img src="assets/images/screensimg/screen3.png" alt="Screen 3" width="300">
+<img src="assets/images/screensimg/screen1.jpg" alt="Screen 1" width="300">
+<img src="assets/images/screensimg/screen2.jpg" alt="Screen 2" width="300">
+<img src="assets/images/screensimg/screen3.jpg" alt="Screen 3" width="300">
 
 ## 🤝 Contributing
 
