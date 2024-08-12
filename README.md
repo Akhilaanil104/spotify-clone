@@ -95,7 +95,7 @@ The project is organized into the following folders:
 
 <p>The UI design for this project was created using Figma. You can view and collaborate on the design by visiting the following link:</p>
 
-<a href="#">Figma Design Link</a> _(Replace with your actual Figma link)_
+<a href="https://www.figma.com/community/file/1166665330965959412/spotify-redesign-free-ui-kit-light">Figma Design Link</a> 
 
 ## 🖥️ Screenshots
 
